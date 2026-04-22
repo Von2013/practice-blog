@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <user_profile account_status="verified"> 
+        <employee_id>34</employe_id>
+            <assigned_roles>
+                <role>System_Admin</role>
+                <role>API_Manger </role>
+                <role>Techcnial_Writer</role>
+            </assigned_roles>
+    </user_profile>
+    
+ 
