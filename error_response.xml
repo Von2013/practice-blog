@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <api_error severity="critical">
+        <status_code>400</status_code>
+        <error_message>Validation Failed: Invalid SSN format</error_message>
+            <error_detials>
+                <detail>Expected format: XXX_XX_XXX</detail>
+                <detail>Recieved value containe dalphabetical characters</detail>
+            </error_details>
+        <help_url>www.123eightnine13.com</help_url>
+    </api_error>
