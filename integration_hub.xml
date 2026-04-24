@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <employee_report xmlns:hr="http://internal.hr.system" xmlns:vault="http://secure.vault.system">
-        <hr: role> Senior Technical Writer</hr:role>
+        <hr:role> Senior Technical Writer</hr:role>
         <vault:role>Level 4 Clearance</vault:role>
         <status>Active</status>
     </employee_report> 
